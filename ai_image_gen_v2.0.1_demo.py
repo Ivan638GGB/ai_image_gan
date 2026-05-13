@@ -893,7 +893,7 @@ class ImageGANApp:
     def __init__(self, root):
         self.root = root
         self.lang = SETTINGS.get("language", "ru")
-        self.root.title("AI Image Generator (GAN) — Copyright (C) 2026 Ivan Nedostup (GGB_638)")
+        self.root.title("AI Image Generator (GAN) — Copyright (C) 2026 Ivan Nidostup (GGB_638)")
         self.root.geometry("980x720")
 
         ensure_dirs()
