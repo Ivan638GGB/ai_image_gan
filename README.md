@@ -1,11 +1,11 @@
 ==============================================================================
-  AI Image Generator (GAN)
-  Copyright (C) 2026 Ivan Nedostup (GGB_638), Kryvyi Rih, Ukraine.
-  Distributed under GNU General Public License v3 (GNU GPL v3).
-
-  This program comes with ABSOLUTELY NO WARRANTY.
-  This is free software, and you are welcome to redistribute it
-  under the conditions of GNU GPL v3. See the LICENSE file for details.
+   AI Image Generator (GAN)
+   Copyright (C) 2026 Ivan Nidostup (GGB_638), Kryvyi Rih, Ukraine.
+   Distributed under GNU General Public License v3 (GNU GPL v3).
+   
+   This program comes with ABSOLUTELY NO WARRANTY.
+   This is free software, and you are welcome to redistribute it
+   under the conditions of GNU GPL v3. See the LICENSE file for details.
 ==============================================================================
 
 Если программа не запускается,
@@ -17,6 +17,8 @@
 собственных изображениях и генерации новых картинок на основе выученных
 паттернов. Создана с целью сделать обучение ИИ доступным для всех.
 
+## Хештеги / Tags
+#AI #GAN #ImageGeneration #DeepLearning #MachineLearning #NeuralNetwork #Python #PyTorch #Desktop #Windows #OpenSource #GPL3
 
 СИСТЕМНЫЕ ТРЕБОВАНИЯ
 --------------------
@@ -137,7 +139,7 @@ Free Software Foundation.
 
 КОНТАКТЫ
 --------
-Автор: Ivan Nedostup (GGB_638)
+Автор: Ivan Nidostup (GGB_638)
 Местонахождение: Кривой Рог, Украина
 Год: 2026
 
@@ -149,6 +151,9 @@ Easy desktop app for beginners:
 - Train GAN on your dataset
 - Generate new images
 - Language switch: Russian / English (from app UI)
+
+## Tags
+#AI #GAN #ImageGeneration #DeepLearning #MachineLearning #NeuralNetwork #Python #PyTorch #Desktop #Windows #OpenSource #GPL3
 
 ## Quick Start (Windows)
 
@@ -194,9 +199,12 @@ See `requirements.txt`.
 - User is fully responsible for any dataset and generated content.
 - Illegal content is strictly prohibited.
 - Any sexual content involving minors is strictly prohibited and illegal.
+- Any adult (18+) sexual content is strictly prohibited.
 - The author/distributor is not responsible for user actions or legal consequences.
 - On startup, user must explicitly accept terms and confirm non-use for illegal content.
 - Acceptance events are logged locally in `legal_acceptance_log.jsonl`.
 - Full legal text: `TERMS_OF_USE.md`
+- Code of conduct: `CODE_OF_CONDUCT.md`
+- Content policy: `CONTENT_POLICY.md`
 - Additional disclaimer: `DISCLAIMER.md`
- 
+- Non-compliance will result in account deletion and law enforcement reports.
