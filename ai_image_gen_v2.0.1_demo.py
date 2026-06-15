@@ -1,6 +1,6 @@
 # ==============================================================================
 # AI Image Generator (GAN)
-# Copyright (C) 2026 Ivan Nidostup (GGB_638), Kryvyi Rih, Ukraine.
+# Copyright (C) 2026 Ivan Nedostup (GGB_638), Kryvyi Rih, Ukraine.
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
