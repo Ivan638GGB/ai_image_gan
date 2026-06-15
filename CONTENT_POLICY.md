@@ -272,7 +272,7 @@
 - 🔴 **FBI:** https://www.fbi.gov/investigate/cyber
 - 🔴 **INTERPOL:** https://www.interpol.int/
 - 🔴 **GitHub:** https://github.com/contact/report-abuse
-- 🔴 **Email:** ivan.nidostup@example.com
+- 🔴 **Email:** ivan.nedostup@example.com
 
 ---
 
