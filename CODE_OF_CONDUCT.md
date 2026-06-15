@@ -78,7 +78,7 @@
 
 Если вы видите нарушение:
 - **GitHub Issues:** https://github.com/Ivan638GGB/ai_image_gan/issues
-- **Email:** ivan.nidostup@example.com
+- **Email:** ivan.nedostup@example.com
 - **NCMEC (USA):** https://cybertipline.org
 - **INTERPOL:** https://www.interpol.int/
 
@@ -91,7 +91,7 @@
 
 ---
 
-**Автор: Ivan Nidostup (GGB_638)**
-**Author: Ivan Nidostup (GGB_638)**
+**Автор: Ivan Nedostup (GGB_638)**
+**Author: Ivan Nedostup (GGB_638)**
 **Год: 2026**
 **Year: 2026**
