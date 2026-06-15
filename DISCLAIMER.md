@@ -114,7 +114,7 @@
 
 Согласно GNU GPL v3:
 
-> THIS PROGRAM IS PROVIDED WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF THIRD PARTY RIGHTS.
+> THIS PROGRAM IS PROVIDED WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT O[...]
 
 Это означает:
 - Нет гарантии функциональности / No warranty of functionality
@@ -208,7 +208,7 @@
 
 - **Программа:** AI Image Generator (GAN)
 - **Версия:** 2.0.1
-- **Автор:** Ivan Nidostup (GGB_638)
+- **Автор:** Ivan Nedostup (GGB_638)
 - **Лицензия:** GNU GPL v3
 - **Год:** 2026
 - **Дата:** 2026-05-13
@@ -218,7 +218,7 @@
 ## 📞 КОНТАКТЫ / CONTACTS
 
 - **GitHub:** https://github.com/Ivan638GGB/ai_image_gan
-- **Email:** ivan.nidostup@example.com
+- **Email:** ivan.nedostup@example.com
 - **Город / City:** Кривой Рог / Kryvyi Rih
 - **Страна / Country:** Украина / Ukraine
 
