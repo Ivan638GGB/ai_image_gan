@@ -893,7 +893,7 @@ class ImageGANApp:
     def __init__(self, root):
         self.root = root
         self.lang = SETTINGS.get("language", "ru")
-        self.root.title("AI Image Generator (GAN) — Copyright (C) 2026 Ivan Nidostup (GGB_638)")
+        self.root.title("AI Image Generator (GAN) — Copyright (C) 2026 Ivan Nedostup (GGB_638)")
         self.root.geometry("980x720")
 
         ensure_dirs()
@@ -916,7 +916,7 @@ class ImageGANApp:
         self.refresh_generated_preview()
         self.apply_training_profile(initial=True)
         self.log("AI Image Generator (GAN)")
-        self.log("Copyright (C) 2026 Ivan Nidostup (GGB_638). Distributed under GNU GPL v3.")
+        self.log("Copyright (C) 2026 Ivan Nedostup (GGB_638). Distributed under GNU GPL v3.")
         self.log("This program comes with ABSOLUTELY NO WARRANTY; see LICENSE file for details.")
         self.log(f"Device: {self.device_name}")
         self.log("Ready.")
@@ -969,7 +969,7 @@ class ImageGANApp:
 
         copyright_label = ttk.Label(
             main,
-            text="Copyright (C) 2026 Ivan Nidostup (GGB_638). Distributed under GNU GPL v3. | No warranty.",
+            text="Copyright (C) 2026 Ivan Nedostup (GGB_638). Distributed under GNU GPL v3. | No warranty.",
             style="Hint.TLabel",
         )
         copyright_label.pack(anchor="w", pady=(0, 6))
